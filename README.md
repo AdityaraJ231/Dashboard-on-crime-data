@@ -57,8 +57,4 @@ Through this project, I improved my skills in:
 ## Author
 
 **Aditya Raj**
-B.Tech CSE Student at Lovely Professional University (2024–2028)
-Skilled in Excel, Power BI, Python, and Data Analysis
 
-GitHub: https://github.com/AdityaraJ231
-LinkedIn: https://www.linkedin.com/in/aditya-raj-aa7a24336
